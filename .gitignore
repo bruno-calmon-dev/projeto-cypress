@@ -4,6 +4,7 @@
 
 #
 workDev.txt
+cypress/screenshots
 
 # VSCode
 .vscode/
