@@ -2,6 +2,9 @@
 #
 .DS_Store
 
+#
+workDev.txt
+
 # VSCode
 .vscode/
 .history/
